@@ -1,0 +1,4 @@
+S’il s’agit de la première fois que vous utilisez Git avec un dépôt distant GitHub, vos identifiant 
+et mot de passe vous seront demandés. Par défaut, Git ne mémorise ces informations que le 
+temps de la session courante ; autrement dit, il vous les redemandera la prochaine fois que vous 
+rouvrirez un Terminal.
